@@ -1,4 +1,4 @@
-# Portfolio ¡Hola, bienvenido a mi proyecto: Amigo Secreto!
+# Portafolio ¡Hola, bienvenido a mi proyecto: Amigo Secreto!
 
 ## Descripción del proyecto:
 * La aplicación permite  a los usuarios ingresar nombres de amigos en una lista para luego realizar 
